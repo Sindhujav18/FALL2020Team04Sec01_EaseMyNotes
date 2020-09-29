@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:orientation="vertical"
+    android:background="#FAFCAB"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/tv_easemynotes"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:textStyle="bold"
+        android:textSize="32sp"
+        android:text="@string/easemynotes"
+        />
+
+</LinearLayout>
