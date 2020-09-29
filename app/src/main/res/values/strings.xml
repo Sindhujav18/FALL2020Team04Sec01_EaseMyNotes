@@ -15,4 +15,6 @@
     <string name="last_name">Last Name</string>
     <string name="email">email</string>
     <string name="email_id">email id</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
 </resources>
