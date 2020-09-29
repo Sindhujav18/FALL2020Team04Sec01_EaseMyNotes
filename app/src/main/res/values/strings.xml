@@ -10,4 +10,6 @@
     <string name="homelogin">LOGIN</string>
     <string name="not_registered">not_registered?</string>
     <string name="register">REGISTER</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First Name</string>
 </resources>
