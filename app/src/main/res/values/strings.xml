@@ -12,4 +12,7 @@
     <string name="register">REGISTER</string>
     <string name="create_account">Create Account</string>
     <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">email</string>
+    <string name="email_id">email id</string>
 </resources>

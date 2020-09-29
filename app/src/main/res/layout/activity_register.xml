@@ -24,6 +24,21 @@
         android:layout_width="300dp"
         android:layout_height="40dp"
         android:layout_marginTop="40dp"
-        android:hint="@string/first_name" />
+        android:hint="@string/first_name"/>
+
+    <EditText
+
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/last_name"/>
+    <EditText
+
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/email_id"/>
+
+
 
 </LinearLayout>
